@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.travelleraas.user.entity.UserDetail;
 import com.travelleraas.user.service.UserDetailsService;
 
-import jakarta.websocket.server.PathParam;
+
 
 @RestController
 @RequestMapping(path = "/user")
